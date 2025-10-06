@@ -1,0 +1,9 @@
+{
+  "project": "MasterOS",
+  "owner": "gutyAS",
+  "version": "v1.0",
+  "max_gpu_price_usd_per_hr": 1.5,
+  "report_interval_min": 60,
+  "notion_db": "auto",
+  "vast_credit_alert_usd": 10
+}
